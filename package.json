@@ -1,0 +1,14 @@
+{
+  "name": "robot2027-app",
+  "version": "2.1.0",
+  "description": "Robot 2027 Smart Companion - Hybrid API + On-Device LLM + Family Memory",
+  "scripts": {
+    "cap:sync": "npx cap sync"
+  },
+  "dependencies": {
+    "@capacitor/android": "6.1.2",
+    "@capacitor/cli": "6.1.2",
+    "@capacitor/core": "6.1.2",
+    "@capacitor-community/text-to-speech": "6.0.0"
+  }
+}
